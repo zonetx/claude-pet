@@ -1,0 +1,7 @@
+{
+  "name": "pixel-pet",
+  "version": "0.1.0",
+  "author": { "name": "ZNT" },
+  "description": "Animated Claude companion that shows what Claude is doing right now. Toggle with /pet.",
+  "types": "./types/index.d.ts"
+}

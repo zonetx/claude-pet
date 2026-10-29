@@ -1,0 +1,12 @@
+# runtime state written by the pet while it runs
+overlay/status.json
+overlay/pet.json
+overlay/prefs.json
+overlay/focus.json
+overlay/life.json
+overlay/position.json
+overlay/overlay-error.log
+overlay/sessions/*.json
+overlay/asks/*.json
+overlay/answers/*.json
+.claude-plugin/types/

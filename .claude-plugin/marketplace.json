@@ -1,0 +1,6 @@
+{
+  "name": "pixel-pet-local",
+  "owner": { "name": "ZNT" },
+  "description": "Floating desktop pet for Claude Code on Windows",
+  "plugins": [{ "name": "pixel-pet", "source": "./" }]
+}
